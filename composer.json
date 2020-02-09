@@ -1,0 +1,17 @@
+{
+    "name": "error17191/sample",
+    "description": "Sample PHP Library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mohamed Ahmed",
+            "email": "error17191@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sample\\" : "src/"
+        }
+    }
+}
